@@ -2,3 +2,5 @@ name: "yadelNegashWebsite"
 title: null
 plugins:
   -jemoji
+
+theme: jekyll-theme-architect
