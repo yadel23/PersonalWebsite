@@ -1,4 +1,6 @@
-name: "yadelNegashWebsite"
-title: null
+name: yadelNegash-Website
+title: "Personal Website"
+description: "Know More about Yadel Negash!"
 plugins:
   -jemoji
+theme: jekyll-theme-midnight
