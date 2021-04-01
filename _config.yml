@@ -1,5 +1,6 @@
 name: yadelNegash-Website
-title: "Personal Website"
+title: "Yadel's Website"
 description: "Know More about Yadel Negash!"
 plugins:
   - jemoji
+theme: jekyll-theme-architect
