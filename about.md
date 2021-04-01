@@ -12,3 +12,5 @@ One immediate career goal I would like to achieve is to be an excellent programm
 ##### Click [here](./index.md) to go back to the homepage! 	:wink:
 
 ##### Click [here](./projects.md) to see what projects I have worked on!   :computer:
+
+![profile](./assets/profile.jpg)
