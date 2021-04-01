@@ -2,4 +2,4 @@ name: yadelNegash-Website
 title: "Personal Website"
 description: "Know More about Yadel Negash!"
 plugins:
-  -jemoji
+  - jemoji
