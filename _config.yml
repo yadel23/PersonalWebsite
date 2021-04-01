@@ -1,6 +1,6 @@
 name: yadelNegash-Website
 title: "Yadel's Website"
-description: "Know More about Yadel Negash!"
+description: "Everybody should learn to program a computer, because it teaches you how to think. \n - Steve Jobs”
 plugins:
   - jemoji
 theme: jekyll-theme-architect
